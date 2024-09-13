@@ -9,15 +9,14 @@
     
   </tr>
 </table>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Imagen Centrara con Borde y Fondo</title>
   <style>
-    body {
-      display: flex;
-      justify-content: center;
-      align-items: center;
-      height: 100vh;
-      margin: 0;  
-    }
-     .container {
+    .container {
       text-align: center;
       background: linear-gradient(145deg, #e0f7fa, #b3e5fc); /* Gradiente azul claro para el fondo de la imagen */
       padding: 20px;
@@ -36,3 +35,5 @@
     <img src="./leo.png" alt="Imagen Azul">
   </div>
 </body>
+</html>
+
