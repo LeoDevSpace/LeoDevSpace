@@ -5,35 +5,13 @@
     </td>
     <td style="vertical-align: middle; padding-left: 20px;">
       <h2>¡Bienvenid@s al GitHub de LevCodeSpace!</h2>
-      
-    
+      <p>Explora proyectos, sigue el progreso y únete a la conversación.</p>
+    </td>
   </tr>
 </table>
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Imagen Centrara con Borde y Fondo</title>
-  <style>
-    .container {
-      text-align: center;
-      background: linear-gradient(145deg, #e0f7fa, #b3e5fc); /* Gradiente azul claro para el fondo de la imagen */
-      padding: 20px;
-      border-radius: 15px;
-      box-shadow: 8px 8px 15px rgba(0, 0, 0, 0.2), -8px -8px 15px rgba(255, 255, 255, 0.8); /* Sombra interna */
-    }
-    .container img {
-      max-width: 100%;
-      height: auto;
-      border-radius: 10px;
-    }
-  </style>
-</head>
-<body>
-  <div class="container">
-    <img src="./leo.png" alt="Imagen Azul">
-  </div>
-</body>
-</html>
+
+<p align="center" style="background: linear-gradient(145deg, #e0f7fa, #b3e5fc); padding: 20px; border-radius: 15px; box-shadow: 8px 8px 15px rgba(0, 0, 0, 0.2), -8px -8px 15px rgba(255, 255, 255, 0.8);">
+  <img src="./leo.png" alt="Imagen Azul" style="max-width:100%; border-radius: 10px;">
+</p>
+
 
